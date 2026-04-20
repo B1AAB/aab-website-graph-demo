@@ -1,0 +1,1 @@
+import{w as t,p as o}from"./chunk-WWGJGFF6-KghnZzuU.js";function r(){return[{title:"Explore BTC Graph"},{name:"description",content:"Explore the Bitcoin graph!"}]}const p=t(function(){return o.jsx(App,{})});export{p as default,r as meta};
